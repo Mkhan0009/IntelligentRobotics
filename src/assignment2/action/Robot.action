@@ -1,0 +1,9 @@
+#goal definition
+float32[] pose
+---
+#result definition
+float32[] obstacle_locations_x
+float32[] obstacle_locations_y
+---
+#feedback
+string feedback

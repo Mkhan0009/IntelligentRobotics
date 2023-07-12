@@ -1,0 +1,7 @@
+aruco_ros/aruco
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco/cmake.lock /home/joe/ir2223_group_17/tiago_public_ws/devel/./cmake.lock
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco/share/aruco/cmake/arucoConfig.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/aruco/cmake/arucoConfig.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco/share/aruco/cmake/arucoConfig-version.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/aruco/cmake/arucoConfig-version.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco/lib/libaruco.so /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/libaruco.so
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco/lib/pkgconfig/aruco.pc /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/pkgconfig/aruco.pc
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco/lib/aruco/optimalmarkers /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/aruco/optimalmarkers

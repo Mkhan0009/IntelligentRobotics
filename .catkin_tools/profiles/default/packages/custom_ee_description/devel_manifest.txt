@@ -1,0 +1,5 @@
+custom_end_effector/custom_ee_description
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/custom_ee_description/cmake.lock /home/joe/ir2223_group_17/tiago_public_ws/devel/./cmake.lock
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/custom_ee_description/share/custom_ee_description/cmake/custom_ee_descriptionConfig-version.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/custom_ee_description/cmake/custom_ee_descriptionConfig-version.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/custom_ee_description/share/custom_ee_description/cmake/custom_ee_descriptionConfig.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/custom_ee_description/cmake/custom_ee_descriptionConfig.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/custom_ee_description/lib/pkgconfig/custom_ee_description.pc /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/pkgconfig/custom_ee_description.pc

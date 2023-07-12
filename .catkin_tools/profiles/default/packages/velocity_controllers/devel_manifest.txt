@@ -1,0 +1,6 @@
+ros_controllers/velocity_controllers
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/velocity_controllers/cmake.lock /home/joe/ir2223_group_17/tiago_public_ws/devel/./cmake.lock
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/velocity_controllers/share/velocity_controllers/cmake/velocity_controllersConfig-version.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/velocity_controllers/cmake/velocity_controllersConfig-version.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/velocity_controllers/share/velocity_controllers/cmake/velocity_controllersConfig.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/velocity_controllers/cmake/velocity_controllersConfig.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/velocity_controllers/lib/libvelocity_controllers.so /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/libvelocity_controllers.so
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/velocity_controllers/lib/pkgconfig/velocity_controllers.pc /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/pkgconfig/velocity_controllers.pc

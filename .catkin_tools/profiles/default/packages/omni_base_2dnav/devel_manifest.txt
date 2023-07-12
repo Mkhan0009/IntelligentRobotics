@@ -1,0 +1,5 @@
+omni_base_navigation/omni_base_2dnav
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/omni_base_2dnav/cmake.lock /home/joe/ir2223_group_17/tiago_public_ws/devel/./cmake.lock
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/omni_base_2dnav/share/omni_base_2dnav/cmake/omni_base_2dnavConfig-version.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/omni_base_2dnav/cmake/omni_base_2dnavConfig-version.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/omni_base_2dnav/share/omni_base_2dnav/cmake/omni_base_2dnavConfig.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/omni_base_2dnav/cmake/omni_base_2dnavConfig.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/omni_base_2dnav/lib/pkgconfig/omni_base_2dnav.pc /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/pkgconfig/omni_base_2dnav.pc

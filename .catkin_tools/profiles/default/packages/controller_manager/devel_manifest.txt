@@ -1,0 +1,7 @@
+ros_control/controller_manager
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/controller_manager/cmake.lock /home/joe/ir2223_group_17/tiago_public_ws/devel/./cmake.lock
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/controller_manager/share/controller_manager/cmake/controller_managerConfig.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/controller_manager/cmake/controller_managerConfig.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/controller_manager/share/controller_manager/cmake/controller_managerConfig-version.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/controller_manager/cmake/controller_managerConfig-version.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/controller_manager/lib/libcontroller_manager.so /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/libcontroller_manager.so
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/controller_manager/lib/pkgconfig/controller_manager.pc /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/pkgconfig/controller_manager.pc
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/controller_manager/lib/python2.7/dist-packages/controller_manager/__init__.py /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/python2.7/dist-packages/controller_manager/__init__.py

@@ -1,0 +1,6 @@
+tiago_tutorials/demo_motions
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/demo_motions/cmake.lock /home/joe/ir2223_group_17/tiago_public_ws/devel/./cmake.lock
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/demo_motions/share/demo_motions/cmake/demo_motionsConfig-version.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/demo_motions/cmake/demo_motionsConfig-version.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/demo_motions/share/demo_motions/cmake/demo_motionsConfig.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/demo_motions/cmake/demo_motionsConfig.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/demo_motions/lib/demo_motions/run_loop_node /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/demo_motions/run_loop_node
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/demo_motions/lib/pkgconfig/demo_motions.pc /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/pkgconfig/demo_motions.pc

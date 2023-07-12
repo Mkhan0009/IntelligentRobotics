@@ -1,0 +1,8 @@
+pal_statistics/pal_statistics
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/pal_statistics/cmake.lock /home/joe/ir2223_group_17/tiago_public_ws/devel/./cmake.lock
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/pal_statistics/share/pal_statistics/cmake/pal_statisticsConfig-version.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/pal_statistics/cmake/pal_statisticsConfig-version.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/pal_statistics/share/pal_statistics/cmake/pal_statisticsConfig.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/pal_statistics/cmake/pal_statisticsConfig.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/pal_statistics/lib/libextract_rosbag_signals.so /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/libextract_rosbag_signals.so
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/pal_statistics/lib/libpal_statistics.so /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/libpal_statistics.so
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/pal_statistics/lib/pkgconfig/pal_statistics.pc /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/pkgconfig/pal_statistics.pc
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/pal_statistics/lib/python2.7/dist-packages/pal_statistics/__init__.py /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/python2.7/dist-packages/pal_statistics/__init__.py

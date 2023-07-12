@@ -1,0 +1,5 @@
+omni_base_navigation/omni_base_laser_sensors
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/omni_base_laser_sensors/cmake.lock /home/joe/ir2223_group_17/tiago_public_ws/devel/./cmake.lock
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/omni_base_laser_sensors/share/omni_base_laser_sensors/cmake/omni_base_laser_sensorsConfig-version.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/omni_base_laser_sensors/cmake/omni_base_laser_sensorsConfig-version.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/omni_base_laser_sensors/share/omni_base_laser_sensors/cmake/omni_base_laser_sensorsConfig.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/omni_base_laser_sensors/cmake/omni_base_laser_sensorsConfig.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/omni_base_laser_sensors/lib/pkgconfig/omni_base_laser_sensors.pc /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/pkgconfig/omni_base_laser_sensors.pc

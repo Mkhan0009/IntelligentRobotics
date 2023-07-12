@@ -1,0 +1,5 @@
+tiago_tutorials/play_with_sensors
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/play_with_sensors/cmake.lock /home/joe/ir2223_group_17/tiago_public_ws/devel/./cmake.lock
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/play_with_sensors/share/play_with_sensors/cmake/play_with_sensorsConfig-version.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/play_with_sensors/cmake/play_with_sensorsConfig-version.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/play_with_sensors/share/play_with_sensors/cmake/play_with_sensorsConfig.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/play_with_sensors/cmake/play_with_sensorsConfig.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/play_with_sensors/lib/pkgconfig/play_with_sensors.pc /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/pkgconfig/play_with_sensors.pc

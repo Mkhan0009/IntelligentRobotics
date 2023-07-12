@@ -1,0 +1,5 @@
+omni_base_simulation/omni_base_gazebo
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/omni_base_gazebo/cmake.lock /home/joe/ir2223_group_17/tiago_public_ws/devel/./cmake.lock
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/omni_base_gazebo/share/omni_base_gazebo/cmake/omni_base_gazeboConfig.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/omni_base_gazebo/cmake/omni_base_gazeboConfig.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/omni_base_gazebo/share/omni_base_gazebo/cmake/omni_base_gazeboConfig-version.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/omni_base_gazebo/cmake/omni_base_gazeboConfig-version.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/omni_base_gazebo/lib/pkgconfig/omni_base_gazebo.pc /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/pkgconfig/omni_base_gazebo.pc

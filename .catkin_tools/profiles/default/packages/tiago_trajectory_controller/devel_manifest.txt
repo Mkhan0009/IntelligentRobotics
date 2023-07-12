@@ -1,0 +1,6 @@
+tiago_tutorials/tiago_trajectory_controller
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/tiago_trajectory_controller/cmake.lock /home/joe/ir2223_group_17/tiago_public_ws/devel/./cmake.lock
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/tiago_trajectory_controller/share/tiago_trajectory_controller/cmake/tiago_trajectory_controllerConfig.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/tiago_trajectory_controller/cmake/tiago_trajectory_controllerConfig.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/tiago_trajectory_controller/share/tiago_trajectory_controller/cmake/tiago_trajectory_controllerConfig-version.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/tiago_trajectory_controller/cmake/tiago_trajectory_controllerConfig-version.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/tiago_trajectory_controller/lib/pkgconfig/tiago_trajectory_controller.pc /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/pkgconfig/tiago_trajectory_controller.pc
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/tiago_trajectory_controller/lib/tiago_trajectory_controller/run_traj_control /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/tiago_trajectory_controller/run_traj_control

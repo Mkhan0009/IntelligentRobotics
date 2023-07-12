@@ -1,0 +1,5 @@
+custom_end_effector/moveit_custom_dual_config
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/moveit_custom_dual_config/cmake.lock /home/joe/ir2223_group_17/tiago_public_ws/devel/./cmake.lock
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/moveit_custom_dual_config/share/moveit_custom_dual_config/cmake/moveit_custom_dual_configConfig.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/moveit_custom_dual_config/cmake/moveit_custom_dual_configConfig.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/moveit_custom_dual_config/share/moveit_custom_dual_config/cmake/moveit_custom_dual_configConfig-version.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/moveit_custom_dual_config/cmake/moveit_custom_dual_configConfig-version.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/moveit_custom_dual_config/lib/pkgconfig/moveit_custom_dual_config.pc /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/pkgconfig/moveit_custom_dual_config.pc

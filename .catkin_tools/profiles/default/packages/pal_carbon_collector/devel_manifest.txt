@@ -1,0 +1,6 @@
+pal_statistics/pal_carbon_collector
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/pal_carbon_collector/cmake.lock /home/joe/ir2223_group_17/tiago_public_ws/devel/./cmake.lock
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/pal_carbon_collector/share/pal_carbon_collector/cmake/pal_carbon_collectorConfig-version.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/pal_carbon_collector/cmake/pal_carbon_collectorConfig-version.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/pal_carbon_collector/share/pal_carbon_collector/cmake/pal_carbon_collectorConfig.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/pal_carbon_collector/cmake/pal_carbon_collectorConfig.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/pal_carbon_collector/lib/pkgconfig/pal_carbon_collector.pc /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/pkgconfig/pal_carbon_collector.pc
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/pal_carbon_collector/lib/python2.7/dist-packages/pal_carbon_collector/__init__.py /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/python2.7/dist-packages/pal_carbon_collector/__init__.py

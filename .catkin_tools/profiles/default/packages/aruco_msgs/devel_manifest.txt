@@ -1,0 +1,26 @@
+aruco_ros/aruco_msgs
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco_msgs/cmake.lock /home/joe/ir2223_group_17/tiago_public_ws/devel/./cmake.lock
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco_msgs/share/roseus/ros/aruco_msgs/manifest.l /home/joe/ir2223_group_17/tiago_public_ws/devel/share/roseus/ros/aruco_msgs/manifest.l
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco_msgs/share/roseus/ros/aruco_msgs/msg/MarkerArray.l /home/joe/ir2223_group_17/tiago_public_ws/devel/share/roseus/ros/aruco_msgs/msg/MarkerArray.l
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco_msgs/share/roseus/ros/aruco_msgs/msg/Marker.l /home/joe/ir2223_group_17/tiago_public_ws/devel/share/roseus/ros/aruco_msgs/msg/Marker.l
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco_msgs/share/aruco_msgs/cmake/aruco_msgsConfig-version.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/aruco_msgs/cmake/aruco_msgsConfig-version.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco_msgs/share/aruco_msgs/cmake/aruco_msgsConfig.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/aruco_msgs/cmake/aruco_msgsConfig.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco_msgs/share/aruco_msgs/cmake/aruco_msgs-msg-paths.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/aruco_msgs/cmake/aruco_msgs-msg-paths.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco_msgs/share/aruco_msgs/cmake/aruco_msgs-msg-extras.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/aruco_msgs/cmake/aruco_msgs-msg-extras.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco_msgs/share/gennodejs/ros/aruco_msgs/_index.js /home/joe/ir2223_group_17/tiago_public_ws/devel/share/gennodejs/ros/aruco_msgs/_index.js
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco_msgs/share/gennodejs/ros/aruco_msgs/msg/_index.js /home/joe/ir2223_group_17/tiago_public_ws/devel/share/gennodejs/ros/aruco_msgs/msg/_index.js
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco_msgs/share/gennodejs/ros/aruco_msgs/msg/MarkerArray.js /home/joe/ir2223_group_17/tiago_public_ws/devel/share/gennodejs/ros/aruco_msgs/msg/MarkerArray.js
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco_msgs/share/gennodejs/ros/aruco_msgs/msg/Marker.js /home/joe/ir2223_group_17/tiago_public_ws/devel/share/gennodejs/ros/aruco_msgs/msg/Marker.js
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco_msgs/share/common-lisp/ros/aruco_msgs/msg/_package_Marker.lisp /home/joe/ir2223_group_17/tiago_public_ws/devel/share/common-lisp/ros/aruco_msgs/msg/_package_Marker.lisp
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco_msgs/share/common-lisp/ros/aruco_msgs/msg/Marker.lisp /home/joe/ir2223_group_17/tiago_public_ws/devel/share/common-lisp/ros/aruco_msgs/msg/Marker.lisp
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco_msgs/share/common-lisp/ros/aruco_msgs/msg/MarkerArray.lisp /home/joe/ir2223_group_17/tiago_public_ws/devel/share/common-lisp/ros/aruco_msgs/msg/MarkerArray.lisp
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco_msgs/share/common-lisp/ros/aruco_msgs/msg/_package.lisp /home/joe/ir2223_group_17/tiago_public_ws/devel/share/common-lisp/ros/aruco_msgs/msg/_package.lisp
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco_msgs/share/common-lisp/ros/aruco_msgs/msg/aruco_msgs-msg.asd /home/joe/ir2223_group_17/tiago_public_ws/devel/share/common-lisp/ros/aruco_msgs/msg/aruco_msgs-msg.asd
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco_msgs/share/common-lisp/ros/aruco_msgs/msg/_package_MarkerArray.lisp /home/joe/ir2223_group_17/tiago_public_ws/devel/share/common-lisp/ros/aruco_msgs/msg/_package_MarkerArray.lisp
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco_msgs/lib/pkgconfig/aruco_msgs.pc /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/pkgconfig/aruco_msgs.pc
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco_msgs/lib/python2.7/dist-packages/aruco_msgs/__init__.py /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/python2.7/dist-packages/aruco_msgs/__init__.py
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco_msgs/lib/python2.7/dist-packages/aruco_msgs/msg/_Marker.py /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/python2.7/dist-packages/aruco_msgs/msg/_Marker.py
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco_msgs/lib/python2.7/dist-packages/aruco_msgs/msg/_MarkerArray.py /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/python2.7/dist-packages/aruco_msgs/msg/_MarkerArray.py
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco_msgs/lib/python2.7/dist-packages/aruco_msgs/msg/__init__.py /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/python2.7/dist-packages/aruco_msgs/msg/__init__.py
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco_msgs/include/aruco_msgs/Marker.h /home/joe/ir2223_group_17/tiago_public_ws/devel/include/aruco_msgs/Marker.h
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/aruco_msgs/include/aruco_msgs/MarkerArray.h /home/joe/ir2223_group_17/tiago_public_ws/devel/include/aruco_msgs/MarkerArray.h

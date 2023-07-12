@@ -1,0 +1,5 @@
+omni_base_robot/omni_base_description
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/omni_base_description/cmake.lock /home/joe/ir2223_group_17/tiago_public_ws/devel/./cmake.lock
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/omni_base_description/share/omni_base_description/cmake/omni_base_descriptionConfig-version.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/omni_base_description/cmake/omni_base_descriptionConfig-version.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/omni_base_description/share/omni_base_description/cmake/omni_base_descriptionConfig.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/omni_base_description/cmake/omni_base_descriptionConfig.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/omni_base_description/lib/pkgconfig/omni_base_description.pc /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/pkgconfig/omni_base_description.pc

@@ -1,0 +1,5 @@
+pal_wsg_gripper/pal_wsg_gripper_gazebo
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/pal_wsg_gripper_gazebo/cmake.lock /home/joe/ir2223_group_17/tiago_public_ws/devel/./cmake.lock
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/pal_wsg_gripper_gazebo/share/pal_wsg_gripper_gazebo/cmake/pal_wsg_gripper_gazeboConfig-version.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/pal_wsg_gripper_gazebo/cmake/pal_wsg_gripper_gazeboConfig-version.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/pal_wsg_gripper_gazebo/share/pal_wsg_gripper_gazebo/cmake/pal_wsg_gripper_gazeboConfig.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/pal_wsg_gripper_gazebo/cmake/pal_wsg_gripper_gazeboConfig.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/pal_wsg_gripper_gazebo/lib/pkgconfig/pal_wsg_gripper_gazebo.pc /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/pkgconfig/pal_wsg_gripper_gazebo.pc

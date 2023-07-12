@@ -1,0 +1,5 @@
+tiago_tutorials/tts
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/tts/cmake.lock /home/joe/ir2223_group_17/tiago_public_ws/devel/./cmake.lock
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/tts/share/tts/cmake/ttsConfig-version.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/tts/cmake/ttsConfig-version.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/tts/share/tts/cmake/ttsConfig.cmake /home/joe/ir2223_group_17/tiago_public_ws/devel/share/tts/cmake/ttsConfig.cmake
+/home/joe/ir2223_group_17/tiago_public_ws/devel/.private/tts/lib/pkgconfig/tts.pc /home/joe/ir2223_group_17/tiago_public_ws/devel/lib/pkgconfig/tts.pc
